@@ -1,2 +1,2 @@
 # pt1---end
-nothing
+请确保你的电脑上有python3且安装了pygame模块
